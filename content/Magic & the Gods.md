@@ -18,6 +18,3 @@ Those that left were unheard from again, departed to worlds of their own creatio
 | [[Qasrus]] |        Taking        |  Neutral Evil   | A Raven            |
 | [[Oella]]  |        Giving        |  Chaotic Good   | A Bountiful Basket |
 | [[Ezzo]]   |         Life         |   Lawful Good   |                    |
-
-##### The Evil Ones
-Umis - artic prison
