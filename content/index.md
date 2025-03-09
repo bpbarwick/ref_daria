@@ -1,5 +1,4 @@
 ---
-title: Welcome to Quartz
-date: 2025-03-08
+title: Welcome to Daria
 ---
 ![[The Sunfall Coast.jpg|right h]]
