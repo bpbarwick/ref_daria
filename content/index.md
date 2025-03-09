@@ -23,20 +23,20 @@ div.gallery img {
   width: 100%;
   height: auto;
   margin: auto;
-}}
+}
 </style>
 </head>
 <body>
 <center>
 <div class="gallery">
   <a target="_blank" href="https://daria.bpbarwick.com/Player-Options">
-    <img src="media/assets/robe.png" alt="Player Options">
+    <img src="media/assets/robe.png" alt="Player Options" title="Player Options">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://daria.bpbarwick.com/Daria">
-    <img src="media/assets/world.png" alt="World Info">
+    <img src="media/assets/world.png" alt="World Info" title="World Info">
   </a>
 </div>
 
