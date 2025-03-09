@@ -19,11 +19,6 @@ div.gallery:hover {
   filter: opacity(60%);
 }
 
-div.gallery img {
-  width: 100%;
-  height: auto;
-  margin: auto;
-}
 </style>
 </head>
 <body>
