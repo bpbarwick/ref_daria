@@ -1,0 +1,2 @@
+Asian
+An old nation, once dominant in all but the north of the Saltwash Sea, the Emerald Empire is now crumbling. Lands that were once within its borders are now without, leaving behind power vacuums and fearful locals.
