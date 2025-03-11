@@ -1,8 +1,34 @@
 ---
 publish: true
+cssclasses:
+  - article
 ---
-Daria is a world whose axial tilt is tidally locked to the sun. What this means is the northern pole is perpetually tilted away from the sun, causing a never ending night, and the southern pole is tilted toward the sun, causing a never ending day. These places are called the [[Evernight]] and the [[Everday]].
-==When the gods ascended to godhood, Eitris, now the god of the sun, and Lutris, now god of the moon, tilted the world to gain more power. After the world suffered from the alterations of Eitris and Lutris, they saw how they had broken the world and departed for planes of existence of their own making to allow the world to heal. Many of the ascended gods followed.==
-What followed is millennia of migration and convergence and magical discovery. Peoples, once spread far and wide, went to the safer places, where they mingled, giving rise to the many sentient species that inhabit Daria. As the departed gods hoped, the world has healed to a degree and the lands between the Everealms have become steadfast once more.
 ## The Sunfall Coast
-A temperate region surrounding the Saltwash Sea, the Sunfall Coast was given its name due to the fact that the further north you travel along the coast, the faster the sun falls beyond the horizon. It’s pleasant climate along its southern shore and plentiful resources have given rise to trade centers and several nations.
+A temperate region surrounding the Saltwash Sea, the Sunfall Coast was given its name due to the fact that the further north you travel along the coast, the faster the sun falls beyond the horizon. Until recently, much of the Sunfall Coast was dominated by the Emerald Empire, which brought stability and prosperity tot he realm. That began to end several decades ago as the empire’s authority began to crumble.
+The receding Emerald Empire happened bit by bit, but now it’s borders only stretch as far east as the town of Trollbridge, leaving most of the Sunfall Coast unprotected and lawless. The power vacuum has been stoppered with local powers, warlords, raiders, and groups with their own interests at heart. 
+And beyond the Sunfall Coast, the theocracy called Gatsya, has its own sights on the wealth of the coast, sending their agents and priests to sway the coastlanders to hand over their lands to the new Gatsyan god Long Dark.
+The realm is a powder keg in every direction. There is no question that war will break out, the only question is where.
+## The Disparate Peoples
+### The Emerald Empire
+*Yesteryear’s victors, tomorrow’s loser*
+Dominant in all but the north of the Saltwash Sea for the last two hundred years, the Emerald Empire is now crumbling. Lands that were once within its borders are now without, leaving behind power vacuums and fearful locals.
+
+### Free Peoples of the Lowlands<img src="media/places/Briarport.png" alt="Briarport" title="The City of Briarport" style="float:right;width:auto;height:300px;position:top;">
+*The many come together.*
+A new entity in the region, The Free Peoples of the Lowlands were a unification of the peoples of the fertile lowlands south of the Kingdom of Skald. This region was the first area to be left behind by the Emerald Empire, forcing these peoples to unite to survive.
+Perhaps most notable among these peoples are the nomadic centaurs found nowhere else in the Sunfall Coast. When a pact between empire citizens and the centaurs was signed agreeing to mutual benefit and protection, the Free Peoples were created.
+The two most noteworthy settlements in this region include Briarport, a major trade port known for its cliffside views, and Cleft, a small city further inland that is built along a seam of wild magic that long ago split open into a deep crevasse.
+Most eclectic of all the nations of the Sunfall Coast, the Free Peoples largely just want to keep their heads down and get the harvest in. 
+### Gatsya
+To the east of the mountains, lies a theocratic nation controlled by a priesthood to the god Etarr, god of the most pure. Gatsya is growing in power and with it, its desire to expand. Their Purifiers (see below) aim to purify the world through an inquisition targeting magic users who get their powers from unsanctioned gods. Rumors abound of Purifiers moving past the mountains, filling the void created by the Emerald Empire’s retreat.
+### Guardian Mountain Clans
+
+### Kingdom of Skald<img src="media/places/Black Crag.png" alt="Black Crag" title="The City of Black Crag" style="float:right;width:auto;height:300px;position:top;clip-path:circle(30%);">
+The raiders of the north, the Skalds are known for their ferocity in battle. Nowhere along the Sunfall Coast is safe from their plunder.
+
+### Rimerock
+
+### Watcher’s Gate
+
+### Wesmar
+
