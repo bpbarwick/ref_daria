@@ -13,8 +13,8 @@ The realm is a powder keg in every direction. There is no question that war will
 *Yesteryear’s victors, tomorrow’s loser*
 Dominant in all but the north of the Saltwash Sea for the last two hundred years, the Emerald Empire is now crumbling. Lands that were once within its borders are now without, leaving behind power vacuums and fearful locals.
 
-### Free Peoples of the Lowlands<img src="media/places/Briarport.png" alt="Briarport" title="The City of Briarport" style="float:left;width:auto;height:300px;position:top;padding-right: 20px;">
-*The many come together.*
+### Free Peoples of the Lowlands
+<img src="media/places/Briarport.png" alt="Briarport" title="The City of Briarport" style="float:left;width:auto;height:300px;position:top;padding-right: 20px;">*The many come together.*
 A new entity in the region, The Free Peoples of the Lowlands were a unification of the peoples of the fertile lowlands south of the Kingdom of Skald. This region was the first area to be left behind by the Emerald Empire, forcing these peoples to unite to survive.
 Perhaps most notable among these peoples are the nomadic centaurs found nowhere else in the Sunfall Coast. When a pact between empire citizens and the centaurs was signed agreeing to mutual benefit and protection, the Free Peoples were created.
 The two most noteworthy settlements in this region include Briarport, a major trade port known for its cliffside views, and Cleft, a small city further inland that is built along a seam of wild magic that long ago split open into a deep crevasse.
@@ -25,7 +25,8 @@ Up until around fifty years ago, the people of Gatsya were a scattered people ob
 Among the priesthood of Long Dark are the Purifiers, who aim to purify the world through an inquisition targeting magic users who get their powers from unsanctioned gods. Rumors abound of Purifiers moving past the mountains, filling the void created by the Emerald Empire’s retreat.
 ### Guardian Mountain Clans
 
-### Kingdom of Skald<img src="media/places/Black Crag.png" alt="Black Crag" title="The City of Black Crag" style="float:right;width:auto;height:300px;position:top;clip-path:circle(30%);">
+### Skald 
+<img src="media/places/Black Crag.png" alt="Black Crag" title="The City of Black Crag" style="float:right;width:auto;height:300px;position:top;clip-path:circle(30%);">
 The raiders of the north, the Skalds are known for their ferocity in battle. Nowhere along the Sunfall Coast is safe from their plunder.
 
 ### Rimerock
