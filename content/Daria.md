@@ -21,7 +21,8 @@ The two most noteworthy settlements in this region include Briarport, a major tr
 Most eclectic of all the nations of the Sunfall Coast, the Free Peoples largely just want to keep their heads down and get the harvest in. 
 ### Gatsya
 To the east of the mountains, lies a theocratic nation controlled by a priesthood to the new god Long Dark. Gatsya is growing in power and with it, its desire to expand. Gatsya is a nation that is centered around Lake Chevesk, which provides means for food and trade. 
-Their Purifiers aim to purify the world through an inquisition targeting magic users who get their powers from unsanctioned gods. Rumors abound of Purifiers moving past the mountains, filling the void created by the Emerald Empire’s retreat.
+Up until around fifty years ago, the people of Gatsya were a scattered people observing their own religions and cultures. But then the priests of Long Dark began to preach, striking fear into the hearts of all, and providing a framework of unity. Now Gatsya is a unified nation seeking to spread belief in their god who, whaever the traditional religions might say, has been giving the Gatsyans never seen before powers.
+Among the priesthood of Long Dark are the Purifiers, who aim to purify the world through an inquisition targeting magic users who get their powers from unsanctioned gods. Rumors abound of Purifiers moving past the mountains, filling the void created by the Emerald Empire’s retreat.
 ### Guardian Mountain Clans
 
 ### Kingdom of Skald<img src="media/places/Black Crag.png" alt="Black Crag" title="The City of Black Crag" style="float:right;width:auto;height:300px;position:top;clip-path:circle(30%);">

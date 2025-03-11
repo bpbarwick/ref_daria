@@ -1,6 +1,6 @@
 ---
 title: Classes and Subclasses
-publish:
+publish: true
 ---
 byThe following classes and subclasses are thesame as those in the 2024 Dungeons & Dragons Player's Handbook (PHB).They are only referenced here for those who do not have access to the PHB. Use the links to navigate to what you're looking for. 
 ## [Barbarian](http://dnd2024.wikidot.com/barbarian:main)
