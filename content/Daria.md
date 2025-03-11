@@ -20,7 +20,8 @@ Perhaps most notable among these peoples are the nomadic centaurs found nowhere 
 The two most noteworthy settlements in this region include Briarport, a major trade port known for its cliffside views, and Cleft, a small city further inland that is built along a seam of wild magic that long ago split open into a deep crevasse.
 Most eclectic of all the nations of the Sunfall Coast, the Free Peoples largely just want to keep their heads down and get the harvest in. 
 ### Gatsya
-To the east of the mountains, lies a theocratic nation controlled by a priesthood to the god Etarr, god of the most pure. Gatsya is growing in power and with it, its desire to expand. Their Purifiers (see below) aim to purify the world through an inquisition targeting magic users who get their powers from unsanctioned gods. Rumors abound of Purifiers moving past the mountains, filling the void created by the Emerald Empire’s retreat.
+To the east of the mountains, lies a theocratic nation controlled by a priesthood to the new god Long Dark. Gatsya is growing in power and with it, its desire to expand. Gatsya is a nation that is centered around Lake Chevesk, which provides means for food and trade. 
+Their Purifiers aim to purify the world through an inquisition targeting magic users who get their powers from unsanctioned gods. Rumors abound of Purifiers moving past the mountains, filling the void created by the Emerald Empire’s retreat.
 ### Guardian Mountain Clans
 
 ### Kingdom of Skald<img src="media/places/Black Crag.png" alt="Black Crag" title="The City of Black Crag" style="float:right;width:auto;height:300px;position:top;clip-path:circle(30%);">
