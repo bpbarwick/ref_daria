@@ -13,7 +13,7 @@ The realm is a powder keg in every direction. There is no question that war will
 *Yesteryear’s victors, tomorrow’s loser*
 Dominant in all but the north of the Saltwash Sea for the last two hundred years, the Emerald Empire is now crumbling. Lands that were once within its borders are now without, leaving behind power vacuums and fearful locals.
 
-### Free Peoples of the Lowlands<img src="media/places/Briarport.png" alt="Briarport" title="The City of Briarport" style="float:right;width:auto;height:300px;position:top;">
+### Free Peoples of the Lowlands<img src="media/places/Briarport.png" alt="Briarport" title="The City of Briarport" style="float:left;width:auto;height:300px;position:top;padding-right: 20px;">
 *The many come together.*
 A new entity in the region, The Free Peoples of the Lowlands were a unification of the peoples of the fertile lowlands south of the Kingdom of Skald. This region was the first area to be left behind by the Emerald Empire, forcing these peoples to unite to survive.
 Perhaps most notable among these peoples are the nomadic centaurs found nowhere else in the Sunfall Coast. When a pact between empire citizens and the centaurs was signed agreeing to mutual benefit and protection, the Free Peoples were created.
