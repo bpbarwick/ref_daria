@@ -3,7 +3,7 @@ publish: true
 cssclasses:
   - article
 ---
-![[Daria Map]]
+![[Daria Map.excalidraw]]
 ## The Sunfall Coast
 A temperate region surrounding the Saltwash Sea, the Sunfall Coast was given its name due to the fact that the further north you travel along the coast, the faster the sun falls beyond the horizon. Until recently, much of the Sunfall Coast was dominated by the Emerald Empire, which brought stability and prosperity tot he realm. That began to end several decades ago as the empire’s authority began to crumble.
 The receding Emerald Empire happened bit by bit, but now it’s borders only stretch as far east as the town of Trollbridge, leaving most of the Sunfall Coast unprotected and lawless. The power vacuum has been stoppered with local powers, warlords, raiders, and groups with their own interests at heart. 
