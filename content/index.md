@@ -11,38 +11,10 @@ Use this section to learn more about the world when creating your character or a
 *It is not necessary or expected for you to read all this information; consider this a reference document. Use it how you are comfortable using it.* 
 
 
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 0px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  filter: opacity(60%);
-}
-
-</style>
-</head>
-<center>
-<body>
-
-<div class="gallery">
-  <a target="_blank" href="https://daria.bpbarwick.com/Player-Options">
-    <img src="media/assets/robe.png" alt="Player Options" title="Player Options">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://daria.bpbarwick.com/Daria">
-    <img src="media/assets/world.png" alt="Setting Guide" title="Setting Guide">
-  </a>
-</div>
-
-</body>
-</center>  
-</html>
-
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="100%"
+  height="600px"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&amp;layer=mapnik">
+</iframe>
